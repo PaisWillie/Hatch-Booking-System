@@ -9,7 +9,7 @@ import BookingCard from '@/components/booking/BookingCard';
 import BookingField from '@/components/booking/BookingField';
 import Button from '@/components/buttons/Button';
 
-import { ViewOptions } from '@/pages/bookings';
+import { ViewOptions } from '@/pages';
 
 type BookingScheduleProps = {
   date: string;
