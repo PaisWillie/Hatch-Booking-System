@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hatchbooking-staging-60856-authRole",
+      "UnauthRoleArn": "arn:aws:iam::040576407820:role/amplify-hatchbooking-staging-60856-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::040576407820:role/amplify-hatchbooking-staging-60856-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-hatchbooking-staging-60856-deployment",
+      "UnauthRoleName": "amplify-hatchbooking-staging-60856-unauthRole",
+      "StackName": "amplify-hatchbooking-staging-60856",
+      "StackId": "arn:aws:cloudformation:ca-central-1:040576407820:stack/amplify-hatchbooking-staging-60856/4d69a8f0-f930-11ed-be9d-06436827b484",
+      "AmplifyAppId": "d7559t6gcuijt"
+    },
+    "categories": {
+      "auth": {
+        "hatchbooking": {}
+      }
+    }
+  }
+}
