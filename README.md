@@ -1,3 +1,16 @@
+# Hatch Booking System
+
+## About
+
+Cabpool is a cutting-edge room booking application designed to revolutionize McMaster University's existing system. With a sleek interface built using React.js, the platform enables students to effortlessly book rooms at a staggering six times the speed of the previous system. The application utilizes an AWS backend for efficient account management and a robust booking database. Leveraging the power of Next.js and Tailwind CSS, "Hatch Booking System" offers an intuitive and seamless experience for students, streamlining the room booking process like never before.
+
+Requirements include:
+
+- [x] Allowing students to book a room in the Gerald Hatch Centre 6x faster than the original system
+- [x] Responsive design to be able to be used on both desktop and mobile devices
+
+![Hatch Booking System Mockup](https://i.imgur.com/6NeHwbr.jpg)
+
 ## Getting Started
 
 ### Pre-requisites
